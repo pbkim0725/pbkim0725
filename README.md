@@ -7,7 +7,7 @@ My name is Paul Kim currently residing at Seoul, South Korea. <br />
 While I lived majority of my professional life in state of Virginia, Seoul quickly became my second home. <br />
 My career focus is on front-end side of the web, however, I enjoy working on all aspect of web and mobile based sites or app. <br />
 On my personal time, I spend my time tinkering with various stuff on computer or reading mainly something related to technology.
-Whether it's just for small chat, or anything business related, please feel free to leave me message on [My Email Link](mailto:paulbkim01@example.com).
+Whether it's just for small chat, or anything business related, please feel free to leave me message on [My Email Link](mailto:paulbkim01@gmail.com).
 <!--
 ## Skills 
 
